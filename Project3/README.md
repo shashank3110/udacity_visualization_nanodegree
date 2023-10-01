@@ -3,7 +3,7 @@
 
 ### Topic: Top Level dashboard for Super Store Dataset
 
-#### A.  [Dashboard Link:](https://public.tableau.com/app/profile/shashank.s4018/viz/Superstore_Dashboard_Prototype/Top_Level_Dashboard?publish=yes)
+#### A.  Dashboard Link: https://public.tableau.com/app/profile/shashank.s4018/viz/Superstore_Dashboard_Prototype/Top_Level_Dashboard?publish=yes
   
 #### B.  New Tableau Concept learned and applied:
 
