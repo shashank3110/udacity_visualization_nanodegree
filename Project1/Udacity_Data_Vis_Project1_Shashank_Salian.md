@@ -1,6 +1,6 @@
 ﻿Data Visualization Nanodegree:
 
-Build a Data Visualization project - by Shashank Salian![](Aspose.Words.85a31589-9367-4688-92da-162553e00d11.001.png)
+Build a Data Visualization project - by Shashank Salian
 
 **Topic: Flight Delays and Cancellations**
 
