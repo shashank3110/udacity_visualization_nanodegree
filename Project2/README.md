@@ -1,5 +1,5 @@
 ## Data Visualization Nanodegree: 
-## Animate a Data Story Mid-term project - by Shashank Salian
+## Animate a Data Story project - by Shashank Salian
 
 
 
